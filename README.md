@@ -8,7 +8,7 @@ Inside your terminal, clone the repo and install dependencies in a virtual envir
 git clone https://github.com/3laaHisham/Event-Etrance-QR-Code.git
 cd Event-Etrance-QR-Code/
 pip install pipenv #Replace with sudo pip3 for Linux
-pipenv install requirements.txt
+pipenv install -r requirements.txt
 pipenv shell
 ```
 
